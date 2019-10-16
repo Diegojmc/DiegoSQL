@@ -1,9 +1,9 @@
 Delete from usuario
-where apellido="Moguer Castillo";
+where apellido like "Moguer Castillo";
 
 
 DELETE FROM  usuario
-where nombre="Rocío";
+where nombre like "Rocío";
 
 
 Delete from aula
