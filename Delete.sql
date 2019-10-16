@@ -9,3 +9,5 @@ where nombre="Rocío";
 Delete from aula
 where capacidad > 15;
 
+DELETE FROM curso
+where grado="5";
